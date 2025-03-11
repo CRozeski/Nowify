@@ -3,8 +3,7 @@
     <h1 class="authorise__heading">Nowify</h1>
 
     <p class="authorise__copy">
-      Nowify is a simple Spotify 'Now Playing' screen designed for the Raspberry
-      Pi. Login with Spotify below and start playing some music!
+      This webapp is a prototype for the final project for EE494. This is a work in progress.
     </p>
 
     <button
@@ -15,7 +14,7 @@
     </button>
 
     <p class="authorise__credit">
-      <a href="https://github.com/jonashcroft/Nowify">View on GitHub</a>
+      <a href="https://github.com/CRozeski/Nowify">View on GitHub</a>
     </p>
   </div>
 </template>

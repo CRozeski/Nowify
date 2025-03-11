@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <script src="https://sdk.scdn.co/spotify-player.js"></script>
     <Component
       :is="getCurrentComponent"
       :auth="auth"
