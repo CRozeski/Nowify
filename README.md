@@ -12,10 +12,10 @@ This webapp was built for EE494. This prototype shows proof-of-concept for live 
 ### 2. Feature list & future planning:
 
 - [x] Implement fork & now playing screen.
-- [] Implement playback SDK support.
-- [] Add playback controls (Next/Prev Play/Pause).
-- [] Add song scrubber.
-- [] Generic beautification. 
+- [ ] Implement playback SDK support.
+- [ ] Add playback controls (Next/Prev Play/Pause).
+- [ ] Add song scrubber.
+- [ ] Generic beautification. 
 
 
 ### 3. Acknowledgements:
