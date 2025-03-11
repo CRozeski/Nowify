@@ -66,6 +66,8 @@ export default {
   },
 
   methods: {
+
+
     /**
      * Make the network request to Spotify to
      * get the current played track.
@@ -172,7 +174,7 @@ export default {
       clearInterval(this.pollPlaying)
       this.pollPlaying = setInterval(() => {
         this.getNowPlaying()
-      }, 2500)
+      }, 1000)
     },
 
     /**
